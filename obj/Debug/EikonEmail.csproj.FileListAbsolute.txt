@@ -1,0 +1,10 @@
+C:\Users\oscar.portorreal\Documents\Visual Studio 2013\Projects\EikonEmail\EikonEmail\bin\Debug\EikonEmail.exe.config
+C:\Users\oscar.portorreal\Documents\Visual Studio 2013\Projects\EikonEmail\EikonEmail\bin\Debug\EikonEmail.exe
+C:\Users\oscar.portorreal\Documents\Visual Studio 2013\Projects\EikonEmail\EikonEmail\bin\Debug\EikonEmail.pdb
+C:\Users\oscar.portorreal\Documents\Visual Studio 2013\Projects\EikonEmail\EikonEmail\obj\Debug\EIKON.Form1.resources
+C:\Users\oscar.portorreal\Documents\Visual Studio 2013\Projects\EikonEmail\EikonEmail\obj\Debug\EikonEmail.csproj.GenerateResource.Cache
+C:\Users\oscar.portorreal\Documents\Visual Studio 2013\Projects\EikonEmail\EikonEmail\obj\Debug\EikonEmail.exe
+C:\Users\oscar.portorreal\Documents\Visual Studio 2013\Projects\EikonEmail\EikonEmail\obj\Debug\EikonEmail.pdb
+D:\REPOSITORIES\EikonEmail\EikonEmail\bin\Debug\EikonEmail.exe.config
+D:\REPOSITORIES\EikonEmail\EikonEmail\obj\Debug\EikonEmail.exe
+D:\REPOSITORIES\EikonEmail\EikonEmail\obj\Debug\EikonEmail.pdb
